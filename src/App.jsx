@@ -2,7 +2,6 @@ import { useEffect } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import { Slide, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-
 import Layout from './components/ui/Layout';
 import IndexPage from './pages/IndexPage';
 import RegisterPage from './pages/RegisterPage';
